@@ -6,7 +6,7 @@ Welcome to my repository that documents my internship project at the Head Quarte
 
 ## Project Overview
 
-The main objective of this internship project is to enhance the flight plan data by applying data augmentation techniques. Additionally, I will be developed a system to automatically download attachments and sort those files based on file extentions, improving the efficiency of file management. And in Phase II, the files of a certain extention '.txt' will be prcessed one-by-one and stored in excel file.
+The main objective of this internship project is to enhance the flight plan data by applying data augmentation techniques. Additionally, I will be developing a system prototype to automatically download attachments and sort those files based on file extentions, improving the efficiency of file management. And in Phase II, the files of a certain extention '.txt' will be prcessed one-by-one and stored in excel file.
 
 ## Repository Structure
 
