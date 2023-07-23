@@ -97,6 +97,6 @@ def execute_email_attachment_download_sorting(email_log_filepath, attachments_fo
 
 # Execute the main function
 execute_email_attachment_download_sorting(
-    email_log_filepath=r"#path to log file",
-    attachments_folder=r"#path to attachments folder"
+    email_log_filepath=r" # path to log file ",
+    attachments_folder=r" # path to attachments folder " 
 )
