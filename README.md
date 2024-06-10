@@ -6,9 +6,8 @@ This repository contains the code and resources for the Automated Email Attachme
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
 3. [Requirements](#requirements)
-4. [Usage](#usage)
-5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
+4. [Project Structure](#project-structure)
+
 
 ## Introduction
 This project involves the development of a Python-based system designed to automate the process of downloading email attachments from Microsoft Outlook and organizing them into separate folders based on their file types. The system was developed as part of the PCAA Summer Internship 2023.
@@ -32,5 +31,5 @@ To run the code in this repository, ensure you have the following packages insta
 - openpyxl
 
 ## Project Structure
-prototypes/: Contains various prototype implementations of the project.
-Report.pdf: Detailed report on the project including limitations,
+- prototypes/: Contains various prototype implementations of the project.
+- Report.pdf: Detailed report on the project including limitations,
